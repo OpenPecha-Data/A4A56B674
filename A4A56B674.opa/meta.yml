@@ -1,0 +1,22 @@
+id: A4A56B674
+title: 'The Sound of the Divine Drum: Counsel at a Time of Victory'
+type: translation
+pechas:
+- IC79A47AA
+- I284CD9E6
+- I794C239D
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:35.471366
+  last_modified_at: 2023-01-04 12:50:35.471373
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC79A47AA/AA54: '4166'
+  I284CD9E6/4022: '4166'
+  I794C239D/F5F8: '4166'
